@@ -1,4 +1,4 @@
-# mario
+# rain
 A game of Mario using JavaScript and Kaboom.js
 
 View the tutorial [here](https://youtu.be/2nucjefSr6I)
